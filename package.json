@@ -1,0 +1,9 @@
+
+{
+  "scripts": {
+    "start": "elm-reactor"
+  }, 
+  "dependencies": {
+    "elm": "^0.18.0"
+  }
+}
